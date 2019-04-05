@@ -1,7 +1,0 @@
-COIN_NAME="ESCO"             
-COIN_PATH="/usr/local/bin/"        
-COIN_CLI="escrow-cli"         
-COIN_FOLDER="/root/.ESCO"   
-COIN_CONFIG="escrow.conf"     
-RPC_PORT=12929                     
-COIN_SERVICE="escrow.service" 
