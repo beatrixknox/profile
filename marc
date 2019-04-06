@@ -1,0 +1,8 @@
+COIN_NAME="marc"
+COIN_PATH="/usr/local/bin/"
+COIN_DAEMON="marcd"
+COIN_CLI="marcoin-cli"
+COIN_FOLDER="/root/.marcoin"
+COIN_CONFIG="marcoin.conf"
+RPC_PORT=44004
+COIN_SERVICE="marcoin.service"
